@@ -5,6 +5,7 @@ A modern full-stack authentication system built with Node.js, Express, MongoDB, 
 ✨ Key Features
 
 🔐 Secure user registration and login system
+
 🔑 JWT-based authentication for protected routes
 🛡 Password hashing using bcrypt for enhanced security
 🍪 HTTPOnly cookies for secure session handling
