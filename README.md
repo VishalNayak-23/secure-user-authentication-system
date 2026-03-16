@@ -4,17 +4,16 @@ A modern full-stack authentication system built with Node.js, Express, MongoDB, 
 
 ✨ Key Features
 
-🔐 Secure user registration and login system
-
-🔑 JWT-based authentication for protected routes
-🛡 Password hashing using bcrypt for enhanced security
-🍪 HTTPOnly cookies for secure session handling
-👤 Role-based access control support
-⚡ Fast frontend built with React and Vite
-🎨 Modern responsive UI using TailwindCSS
-🔎 Input validation using express-validator
-🌐 RESTful API communication with Axios
-🔒 Security best practices using Helmet and CORS
+- Secure user registration and login system
+- JWT-based authentication for protected routes
+- Password hashing using bcrypt for enhanced security
+- HTTPOnly cookies for secure session handling
+- Role-based access control support
+- Fast frontend built with React and Vite
+- Modern responsive UI using TailwindCSS
+- Input validation using express-validator
+- RESTful API communication with Axios
+- Security best practices using Helmet and CORS
 
 🛠 Tech Stack
 
